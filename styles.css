@@ -1,0 +1,277 @@
+.navbar{
+    background-color:#5a2610;
+    padding-bottom:20px;
+    padding-top:20px;
+    position:fixed;
+    top:0px;
+    width:100%;
+    z-index:3;
+    
+}
+#logo{
+    width:50px;
+    height:50px;
+    border:1px solid black;
+    float:left;
+    border-radius:50px;
+    margin-left: 20px;
+    background-image: url(image/barig.jpg);
+    background-size: 100%;
+}
+#link1{
+    float:right;
+    background-color:#5a2610;
+    padding:5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 20px;
+    color:cornsilk;
+    margin-top:10px;
+}
+#alighndiv{
+    margin-right:40px;
+}
+#central{
+    text-align: center;
+}
+#mypage{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(255, 241, 187);
+    
+    top: 90px;
+    position: relative;
+    font-size:55px;display:inline;
+}
+#mypage2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(196, 187, 255);
+    
+    top: 90px;
+    position: relative;
+    font-size:55px;display:inline;}
+
+ #mypage3{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color:rgb(187, 255, 191);
+        
+        top: 90px;
+        position: relative;
+        font-size:55px;display:inline;}
+#mypage4{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color:rgb(255, 187, 187);
+        
+        top: 90px;
+        position: relative;
+        font-size:55px;display:inline;}
+.ban{
+    background-image: url(image/IMG_20231007_213902.jpg);
+    height:600px;
+    position:relative;
+    margin-top: 10%;
+    background-size: 100%;
+    z-index:1;
+}
+.pollo{
+    margin-left: 10%;
+    margin-right: 10%;
+    color:rgb(255, 255, 255);
+    text-align:center;
+    top: 130px;
+    position: relative;
+    font-size:15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#thegallery{
+    position:relative;
+    width: 80px;
+    top:150px;
+    left:46%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    border: 1px solid white;
+    text-align:center;
+    color:white;
+    z-index: 2;
+}
+.down{
+    background-color:#5a2610;
+    padding-bottom:20px;
+    padding-top:20px;
+    position:absolute;
+    bottom:-20px;
+    width:100%;
+    height:60px;
+    z-index:3;
+    margin-top:30px;
+    margin-bottom:auto;
+    top:800px;
+}
+.downtext{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float:left;
+    margin-left: 5%;
+    position:relative;
+    padding:5px;
+    bottom:7%;
+    color:cornsilk;
+}
+.loogsuperset{
+    margin-right:5%;
+}
+
+#geometry{
+    background-image:url(image/geometrical.PNG);
+    width:50px;
+    height:50px;
+    border:2px solid black;
+    float:right;
+    border-radius:50px;
+    margin-right: 2%;
+    background-size: 100%;
+    bottom:-4px;
+    position:relative;
+}
+#fb{
+    background-image: url(image/Facebook-Lo.png);
+    width:50px;
+    height:50px;
+    border:2px solid black;
+    float:right;
+    border-radius:50px;
+    margin-right: 2%;
+    background-size: 100%;
+    bottom:-4px;
+    position:relative;
+}
+#jatub{
+    background-image: url(image/jatub.jpg);
+    width:50px;
+    height:50px;
+    border:2px solid black;
+    float:right;
+    border-radius:50px;
+    margin-right: 2%;
+    background-size: 100%;
+    bottom:-4px;
+    position:relative;
+}
+#h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float:left;
+    margin-left:6%;
+    color:black;
+    position:relative;
+    margin-top:10%;
+    font-size:40px;
+}
+#dec2018{
+    background-image: url(image/tvpatrol_dec2018.png);
+    float:left;
+    left:-20%;
+    height:250px;
+    width: 350px;
+    position:relative;
+    top:250px;
+    background-size: 100%;
+    border-radius:2px;
+    border:solid 2px black;
+    margin:40px;
+}
+#aug2020{
+    background-image: url(image/20200818_134942.jpg);
+    position:relative;
+    top: 250px;
+    height:200px;
+    width: 300px;
+    background-size:100%;
+    border-radius: 10px;
+    margin-left:auto;
+    margin-right:auto;
+    border: 3px solid black;
+}
+#dec2020{
+    background-image:url(image/img_dec2020.jpg);
+    position:relative;
+    top:0px;
+    height:250px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: 100%;
+    float:right;
+    right:7%;
+    margin:40px;
+}
+#jan2021{
+    background-image:url(image/Screenshot_20210107-124949_Teams.jpg);
+    position:relative;
+    top: 200px;
+    left:20%;
+    height:180px;
+    width:300px;
+    float:left;
+    margin:40px;
+    background-size: 100%;
+    border-radius: 15px;
+    border:3px solid black;
+}
+#jun2021{
+    background-image:url(image/IMG20210608170533.jpg);
+    position:relative;
+    top: 200px;
+    height:250px;
+    width:200px;
+    float:right;
+    margin:40px;
+    background-size: 100%;
+    border-radius: 30px;
+    border:2px solid black;
+}
+#jan2023{
+    background-image: url(image/received_631025615473468.jpeg);
+    float:left;
+    left:10%;
+    height:320px;
+    width: 250px;
+    position:relative;
+    top:240px;
+    background-size: 100%;
+    border-radius:5px;
+    border:solid 6px black;
+    margin:40px;
+}
+#may2023{
+    background-image: url(image/IMG_20230608_172546.jpg);
+    position:relative;
+    top: 680px;
+    height:300px;
+    width: 300px;
+    background-size:100%;
+    border-radius: 10px;
+    margin:40px;
+    border: 3px solid black;
+    left:35%;
+}
+#sep2023{
+    background-image:url(image/IMG_20231008_185616.jpg);
+    position:relative;
+    top:260px;
+    height:270px;
+    width: 200px;
+    border: 2px solid black;
+    background-size: 100%;
+    float:right;
+    right:-32%;
+    margin:40px;
+}
+.down1{
+        background-color:#5a2610;
+        padding-bottom:20px;
+        padding-top:20px;
+        position:absolute;
+        bottom:-20px;
+        width:100%;
+        height:60px;
+        z-index:3;
+        margin-top:auto;
+        top:1500px;
+}
